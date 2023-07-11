@@ -4,7 +4,7 @@
     $_SESSION['nome'] = "Arthur";
     $_SESSION['idade'] = 19;
 
-    echo "<h2>Sessão</h2>";
+    echo "<h2>Teste</h2>";
     
     echo "<p>Nome: {$_SESSION['nome']}, Idade: {$_SESSION['idade']} anos</p>";
 
